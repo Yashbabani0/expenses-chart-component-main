@@ -63,7 +63,7 @@ main {
     font-size: 1.6em;
     color: var(--Dark-brown);
 }
-.chart {
+.chart__chart {
   height: 60%;
   border-bottom: 2px solid var(--Medium-brown);
   margin-bottom: 1em;
